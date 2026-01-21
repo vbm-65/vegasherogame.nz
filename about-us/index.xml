@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vegashero Review Hub for Fair, Responsible iGaming Insights on Vegasherogame</title>
-    <link>http://localhost:1313/about-us/</link>
+    <link>https://vegasherogame.nz/about-us/</link>
     <description>Recent content in Vegashero Review Hub for Fair, Responsible iGaming Insights on Vegasherogame</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vegasherogame.nz/about-us/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

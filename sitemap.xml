@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contacts/</loc>
+    <loc>https://vegasherogame.nz/contacts/</loc>
     <lastmod>2025-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
+    <loc>https://vegasherogame.nz/privacy-policy/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/app/</loc>
+    <loc>https://vegasherogame.nz/app/</loc>
     <lastmod>2025-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/responsible-gambling/</loc>
+    <loc>https://vegasherogame.nz/responsible-gambling/</loc>
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cookie-policy/</loc>
+    <loc>https://vegasherogame.nz/cookie-policy/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/bonus/</loc>
+    <loc>https://vegasherogame.nz/bonus/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-us/</loc>
+    <loc>https://vegasherogame.nz/about-us/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/terms-and-conditions/</loc>
+    <loc>https://vegasherogame.nz/terms-and-conditions/</loc>
     <lastmod>2025-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://vegasherogame.nz/</loc>
     <lastmod>2025-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://vegasherogame.nz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://vegasherogame.nz/tags/</loc>
   </url>
 </urlset>

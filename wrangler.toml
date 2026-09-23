@@ -1,0 +1,11 @@
+name = "vegasherogame-nz"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=vegasherogame.nz"
+HMAC_KEY = "c97e106ebf9e0ed0804a3a2b1f49fe7a828b5c3abf5deee975f2ad1f0511392f"
+COOKIE_NAME = "jqh"
+PLAY_PATH = "go"
+BUTTON_ID = "p4a33ab5644f5aad71d0c1f082b3ae4e9"
+GATE_SALT = "da363d78a529e8fb"
